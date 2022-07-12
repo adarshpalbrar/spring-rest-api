@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.springwell</groupId>
-    <artifactId>spring-rest-api</artifactId>
+    <artifactId>coupon-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-rest-api</name>
-    <description>spring-rest-api</description>
+    <name>coupon-service</name>
+    <description>coupon-service</description>
     <properties>
         <java.version>17</java.version>
     </properties>
